@@ -1,7 +1,7 @@
 # Unit_04_Mid
 
 
-I completed part 0, part 1, part 2, part 4
+I completed Part 0, Part 1, Part 2, Part 4, Part 5
 
 I found UI part to implement very easily. Also fragments.
 
